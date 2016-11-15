@@ -1,0 +1,32 @@
+[
+{
+"name": "grilled cheese on toast",
+"ingredients": [
+{ "item":"bread", "amount":"2", "unit":"slices"},
+{ "item":"cheese", "amount":"2", "unit":"slices"}
+]
+}
+,
+{
+"name": "salad sandwich",
+"ingredients": [
+{ "item":"bread", "amount":"2", "unit":"slices"},
+{ "item":"mixed salad", "amount":"200", "unit":"grams"}
+]
+},
+{
+"name": "special salad sandwich",
+"ingredients": [
+{ "item":"bread", "amount":"2", "unit":"slices"},
+{ "item":"mixed salad", "amount":"200", "unit":"grams"},
+{ "item":"peanut butter", "amount":"200", "unit":"grams"}
+]
+},
+{
+"name": "gobi manchurian",
+"ingredients": [
+{ "item":"gobi", "amount":"2", "unit":"slices"},
+{ "item":"manchurian", "amount":"2", "unit":"slices"}
+]
+}
+]
